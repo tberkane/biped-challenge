@@ -1,0 +1,4 @@
+normal
+low-light
+bright-light
+covered
